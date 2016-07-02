@@ -1,0 +1,14 @@
+layout_spectrum: 0.7203226883430034
+typography_spectrum: 0.4830502960830927
+color:
+  brandStrength: 0.5443402042146772
+  lightness: 0.34478610008955
+  saturation: 0.39502244582399726
+  rhythmicContrast: 0.2970114096533507
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: websitetraffic
